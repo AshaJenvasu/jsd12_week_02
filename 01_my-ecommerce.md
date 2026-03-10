@@ -8,10 +8,13 @@
 
 ## Solution(s)
 
-1. Hybrid ขายทั้ง Digital and Phyiscal
+1. Hybrid ขายทั้ง Digital and Phyiscal - สร้าง e-commerce ที่ขายทั้งมังงะกระดาษและสิทธิ์อ่านดิจิทัลในที่เดียว ลูกค้าซื้อกระดาษได้ส่วนลด digital add-on
 
-2. Subscription Model
+2. Subscription Model - แพ็กเกจรายเดือน/รายปี สำหรับอ่านดิจิทัลไม่จำกัด เหมาะกับกลุ่ม นักศึกษา ที่งบจำกัดแต่อยากอ่านเยอะ
 
-3. Smart Notification & Pre-order
+3. Smart Notification & Pre-order - ระบบแจ้งเตือนเมื่อมังงะในใจออกเล่มใหม่ หรือมี Limited Edition แก้ปัญหา Collector ที่ซื้อของไม่ทัน
 
 ## My Ecommerce Project
+
+MangaHub Thailand
+แพลตฟอร์ม e-commerce ขายมังงะแบบ Hybrid (กระดาษ + ดิจิทัล)
